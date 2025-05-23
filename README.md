@@ -199,6 +199,9 @@ Redis is used for caching and performance optimization.
 
 ## API Endpoints
 
+-  Access the swagger API documentation at `http://localhost:5000/docs` 
+- OR Find the json file in the root of the project names `swgger_api_documentation.json`
+
 ### Chat Management
 - POST /api/v1/chats/create-chat - Create a new chat
 - GET /api/v1/chats/get-chat - Get chat details and messages
